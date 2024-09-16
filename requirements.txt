@@ -1,0 +1,11 @@
+instructor 
+openai
+tqdm 
+pydantic 
+datasets 
+pgvector 
+asyncpg 
+Jinja2 
+fuzzywuzzy 
+python-Levenshtein
+python-dotenv
